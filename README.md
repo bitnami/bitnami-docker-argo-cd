@@ -1,27 +1,6 @@
-We are going to transfer this issue to `bitnami/containers`
-
-In order to unify the approaches followed in Bitnami containers and Bitnami charts, we are moving some issues in `bitnami/bitnami-docker-<container>` repositories to `bitnami/containers`.
-
-Please follow [bitnami/containers](https://github.com/bitnami/containers) to keep you updated about the latest bitnami images.
+In order to unify the approaches followed for Bitnami containers and Bitnami Helm charts, we are moving the different `bitnami/bitnami-docker-<container>` repositories to a single monorepo `bitnami/containers`. Please follow [bitnami/containers](https://github.com/bitnami/containers) to keep you updated about the latest Bitnami images.
 
 More information here: https://blog.bitnami.com/2022/07/new-source-of-truth-bitnami-containers.html
-
-We are going to transfer this issue to `bitnami/containers`
-
-In order to unify the approaches followed in Bitnami containers and Bitnami charts, we are moving some issues in `bitnami/bitnami-docker-<container>` repositories to `bitnami/containers`.
-
-Please follow [bitnami/containers](https://github.com/bitnami/containers) to keep you updated about the latest bitnami images.
-
-More information here: https://blog.bitnami.com/2022/07/new-source-of-truth-bitnami-containers.html
-
-We are going to transfer this issue to `bitnami/containers`
-
-In order to unify the approaches followed in Bitnami containers and Bitnami charts, we are moving some issues in `bitnami/bitnami-docker-<container>` repositories to `bitnami/containers`.
-
-Please follow [bitnami/containers](https://github.com/bitnami/containers) to keep you updated about the latest bitnami images.
-
-More information here: https://blog.bitnami.com/2022/07/new-source-of-truth-bitnami-containers.html
-
 # Argo CD packaged by Bitnami
 
 ## What is Argo CD?
