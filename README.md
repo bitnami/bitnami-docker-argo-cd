@@ -1,3 +1,11 @@
+We are going to transfer this issue to `bitnami/containers`
+
+In order to unify the approaches followed in Bitnami containers and Bitnami charts, we are moving some issues in `bitnami/bitnami-docker-<container>` repositories to `bitnami/containers`.
+
+Please follow [bitnami/containers](https://github.com/bitnami/containers) to keep you updated about the latest bitnami images.
+
+More information here: https://blog.bitnami.com/2022/07/new-source-of-truth-bitnami-containers.html
+
 # Argo CD packaged by Bitnami
 
 ## What is Argo CD?
